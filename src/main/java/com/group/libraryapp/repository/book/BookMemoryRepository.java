@@ -8,6 +8,5 @@ import org.springframework.stereotype.Repository;
 public class BookMemoryRepository implements BookRepository{
     @Override
     public void saveBook() {
-
     }
 }
